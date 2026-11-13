@@ -60,8 +60,8 @@ Created a virtual machine snapshot to understand how system states can be saved 
 ### 01. Kali Linux Desktop
 Kali Linux successfully running inside Oracle VirtualBox.
 
-![Kali Linux Desktop](Screenshots/01-Kali-Linux-Desktop.jpg)
-
+![Kali Linux Desktop](
+PXL_20261113_191525319.jpg)
 ### 02. Browser Test
 Opened Firefox inside Kali Linux to explore web access.
 
