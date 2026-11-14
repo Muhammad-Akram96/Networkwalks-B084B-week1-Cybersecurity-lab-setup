@@ -55,17 +55,13 @@ Worked on configuring the Kali Linux network interface with the required static 
 ### 5. VM Snapshot
 Created a virtual machine snapshot to understand how system states can be saved and restored.
 
-## 📸 Screenshots & Evidence
+## Screenshots
 
-### 01. Kali Linux Desktop
-Kali Linux successfully running inside Oracle VirtualBox.
+### 1. Kali Linux Desktop
+![Kali Linux Desktop](Screenshots/PXL_20261113_191525319.jpg)
 
-![Kali Linux Desktop](
-PXL_20261113_191525319.jpg)
-### 02. Browser Test
-Opened Firefox inside Kali Linux to explore web access.
-
-![Browser Test](Screenshots/02-Browser-Test.jpg)
+### 2. Browser Test
+![Browser Test](Screenshots/PXL_20261113_191727277.jpg)
 
 ### 03. Network Configuration
 Reference configuration: NAT Network with subnet 10.0.0.0/24.
